@@ -1,0 +1,21 @@
+h1{
+    color:blue;
+}
+
+*{
+    border:solid;
+}
+.header{
+    
+    background-color: rgb(221, 199, 103);
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.grid{
+    background-color: rgb(147, 151, 202);
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
